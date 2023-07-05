@@ -4,7 +4,6 @@ import clipboard
 import requests
 import io
 
-# Replace 'YOUR_CLIENT_ID' with your actual Imgur client ID
 CLIENT_ID = '9d46d895f7d90dc'
 
 class SnippingTool:
